@@ -16,7 +16,7 @@ public class Solution {
                 }
 
 
-                int top = stack.peek();
+                stack.peek();
                 stack.pop();
             }
         }
